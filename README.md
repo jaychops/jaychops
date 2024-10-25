@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Jason! 👋
 
-![Banner Image](your_banner_image_url_here)
+// ![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
