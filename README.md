@@ -38,6 +38,6 @@ When I'm not coding, you can find me playing guitar in my band. 🎸
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonstephensorensen/)
 
 Open to internships & new opportunities — feel free to reach out!
