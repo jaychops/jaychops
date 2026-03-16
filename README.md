@@ -2,9 +2,9 @@
 
 CS Student with a love for problem-solving and a passion for building clean, 
 efficient software. I'm a backend-focused developer transitioning from 13 years 
-in Sales Management — bringing leadership, patience, and a people-first mindset 
-to everything I build. I love the problem-solving side of coding, the thrill of 
-building something from nothing, and the fact that there's always something new to learn.
+in Business Management — bringing curiosity, patience, and a problem solving mindset 
+to everything I build. I love the thrill of building something from nothing, and the 
+fact that there's always something new to learn.
 
 When I'm not coding, you can find me playing guitar in my band. 🎸
 
