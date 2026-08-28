@@ -1,8 +1,8 @@
 # Hey, I'm Jason!👋
 
 CS Student with a love for problem-solving and a passion for building clean, 
-efficient software. I'm a backend-focused developer transitioning from 13 years 
-in Business Management — bringing curiosity, patience, and a problem solving mindset 
+efficient software. I'm a backend-focused developer transitioning from a career
+in Business Management and Training — bringing curiosity, patience, and a problem solving mindset 
 to everything I build. I love the thrill of building something from nothing, and the 
 fact that there's always something new to learn.
 
